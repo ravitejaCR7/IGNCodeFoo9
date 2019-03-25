@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#BF1313</color>
+    <color name="colorPrimaryDark">#BF1313</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="textHeadingColor">#eeeeee</color>
+    <color name="articles_comments_text_color">#0d47a1</color>
+    <color name="text_color">#A9A9A9</color>
+</resources>
