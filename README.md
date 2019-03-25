@@ -1,4 +1,4 @@
-IGN CodeFoo 9\n
+<h1>IGN CodeFoo 9</h1>
 This is an Andriod Application
 Libraries Used:
   1) Volley
